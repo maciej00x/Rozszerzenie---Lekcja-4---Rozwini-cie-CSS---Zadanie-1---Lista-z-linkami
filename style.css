@@ -1,3 +1,15 @@
-.page {
+.page-index {
+  font-weight: bold;
+}
+
+.page-about {
+  font-weight: bold;
+}
+
+.page-offer {
+  font-weight: bold;
+}
+
+.page-contact {
   font-weight: bold;
 }
